@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Lucas!
 - 👀 Estou interessado em crescer na minha carreira como Dev!
-- 🌱 Estou atualmente aprendendo JS, HTML e CSS.
+- 🌱 Estou atualmente estudando JS, CSS e .NET.
 - 💞️ Gosto de aprender cada vez mais sobre linguagens e compilers diferentes.
-- 📫 Pode me contatar no meu e-mai: lucas.santos003@outlook.com
+- 📫 Pode me contatar no meu e-mail: lucas.santos003@outlook.com
 - 📫 Ou no meu telefone: +55 (14) 99818-3506
